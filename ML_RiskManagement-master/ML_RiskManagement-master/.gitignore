@@ -1,0 +1,4 @@
+.directory
+*checkpoint.ipynb
+temp_*
+*.pyc
